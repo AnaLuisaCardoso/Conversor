@@ -1,0 +1,47 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://static.preparaenem.com/conteudo_legenda/49f0d469c5cede4a5a0917e209cacabe.jpg");
+  background-color: #ffffff;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #b22222;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffd700;
+  margin-top: 5px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #000000;
+  font-size: 30px;
+}
